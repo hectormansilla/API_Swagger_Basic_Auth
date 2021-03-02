@@ -29,7 +29,6 @@ nodemon app.js
 ```
 
 ## Construido con
-- [Nodemon](https://nodemon.io/)
 - [Dotenv](https://github.com/motdotla/dotenv)
 - [Express](http://expressjs.com/)
 - [Express Basic Auth](https://github.com/LionC/express-basic-auth)
